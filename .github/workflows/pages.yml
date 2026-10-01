@@ -41,10 +41,17 @@ jobs:
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width,initial-scale=1">
             <title>FV Neuhausen II Kalender</title>
+            <style>
+              body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:560px;margin:60px auto;padding:0 24px;line-height:1.5}
+              a.button{display:inline-block;padding:14px 20px;border-radius:12px;background:#111;color:#fff;text-decoration:none;font-weight:600}
+              .hint{margin-top:18px;color:#666;font-size:14px}
+            </style>
           </head>
           <body>
             <h1>FV Neuhausen II Kalender</h1>
-            <p><a href="spiele.ics">Kalender öffnen</a></p>
+            <p>Alle Spiele automatisch im Kalender behalten.</p>
+            <p><a class="button" href="webcal://marius160805.github.io/fv-neuhausen-2-calendar/spiele.ics">Kalender abonnieren</a></p>
+            <p class="hint">Falls der Button nicht funktioniert: Einstellungen → Apps → Kalender → Kalenderaccounts → Account hinzufügen → Andere → Kalenderabo hinzufügen.</p>
           </body>
           </html>
           HTML
