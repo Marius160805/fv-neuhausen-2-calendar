@@ -1,0 +1,45 @@
+name: SG Bettringen Kalender aktualisieren
+
+on:
+  schedule:
+    - cron: "27 4 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "update_bettringen.py"
+      - ".github/workflows/update-bettringen.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: SG Bettringen Kalender aktualisieren
+        run: python update_bettringen.py
+
+      - name: Änderungen committen
+        run: |
+          if git diff --quiet -- sg-bettringen.ics; then
+            echo "Keine Änderungen."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sg-bettringen.ics
+          git commit -m "SG Bettringen Kalender automatisch aktualisieren"
+          git push
