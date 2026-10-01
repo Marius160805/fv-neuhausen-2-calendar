@@ -9,257 +9,274 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:031HIGTGVK000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260802T120000Z
 DTEND:20260802T140000Z
 SUMMARY:⚽ SPV 05 Nürtingen – FV Neuhausen II
 LOCATION:Waldheim\, Helmut-Nauendorf-Weg 4\, 72622 Nürtingen
-DESCRIPTION:Bezirksfreundschaftsspiele\nhttps://www.fussball.de/spiel/spv
- -05-nuertingen-fv-neuhausen-ii/-/spiel/031HIGTGVK000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 14:00 Uhr\nBezirksfreundschaftsspiele\nhttps://www.f
+ ussball.de/spiel/spv-05-nuertingen-fv-neuhausen-ii/-/spiel/031HIGTGVK000
+ 000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/spv-05-nuertingen-fv-neuhausen-ii/-/spi
  el/031HIGTGVK000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:030RO9Q67G000000VS5489BUVSEBP30S@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260808T130000Z
 DTEND:20260808T150000Z
 SUMMARY:⚽ TSV Birkach – FV Neuhausen II
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Birkach\, Taldorfer Str. 5
  9\, 70599 Stuttgart
-DESCRIPTION:Bezirksfreundschaftsspiele\nhttps://www.fussball.de/spiel/tsv
- -birkach-fv-neuhausen-ii/-/spiel/030RO9Q67G000000VS5489BUVSEBP30S
+DESCRIPTION:Anpfiff: 15:00 Uhr\nBezirksfreundschaftsspiele\nhttps://www.f
+ ussball.de/spiel/tsv-birkach-fv-neuhausen-ii/-/spiel/030RO9Q67G000000VS5
+ 489BUVSEBP30S
 URL:https://www.fussball.de/spiel/tsv-birkach-fv-neuhausen-ii/-/spiel/030
  RO9Q67G000000VS5489BUVSEBP30S
 END:VEVENT
 BEGIN:VEVENT
 UID:031EVTL96K000000VS5489BTVUS470OH@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260816T090000Z
 DTEND:20260816T110000Z
 SUMMARY:⚽ FV Neuhausen II – TSV Bernhausen II
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Bezirksfreundschaftsspiele\nhttps://www.fussball.de/spiel/fv-
- neuhausen-ii-tsv-bernhausen-ii/-/spiel/031EVTL96K000000VS5489BTVUS470OH
+DESCRIPTION:Anpfiff: 11:00 Uhr\nBezirksfreundschaftsspiele\nhttps://www.f
+ ussball.de/spiel/fv-neuhausen-ii-tsv-bernhausen-ii/-/spiel/031EVTL96K000
+ 000VS5489BTVUS470OH
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tsv-bernhausen-ii/-/spi
  el/031EVTL96K000000VS5489BTVUS470OH
 END:VEVENT
 BEGIN:VEVENT
 UID:031E32F46S000000VS5489BUVUR5FS5A@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260823T110000Z
 DTEND:20260823T130000Z
 SUMMARY:⚽ SGM Altdorf II /​ Großbettlingen II – FV Neuhausen II
 LOCATION:Hauptplatz Großbettlingen\, Staufenbühl 1\, 72663 Großbettlin
  gen
-DESCRIPTION:Bezirkspokal\nhttps://www.fussball.de/spiel/sgm-altdorf-ii-gr
- ossbettlingen-ii-fv-neuhausen-ii/-/spiel/031E32F46S000000VS5489BUVUR5FS5
- A
+DESCRIPTION:Anpfiff: 13:00 Uhr\nBezirkspokal\nhttps://www.fussball.de/spi
+ el/sgm-altdorf-ii-grossbettlingen-ii-fv-neuhausen-ii/-/spiel/031E32F46S0
+ 00000VS5489BUVUR5FS5A
 URL:https://www.fussball.de/spiel/sgm-altdorf-ii-grossbettlingen-ii-fv-ne
  uhausen-ii/-/spiel/031E32F46S000000VS5489BUVUR5FS5A
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159N90000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260830T130000Z
 DTEND:20260830T150000Z
 SUMMARY:⚽ FV Neuhausen II – TB Ruit
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-tb-ruit/-/spiel/031G159N90000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-tb-ruit/-/spiel/031G159N90000000VS5489BTVV
+ G7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tb-ruit/-/spiel/031G159
  N90000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159MIG000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260906T131500Z
 DTEND:20260906T151500Z
 SUMMARY:⚽ SC Altbach – FV Neuhausen II
 LOCATION:Stadion Altbach\, Esslinger Str. 106\, 73776 Altbach
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/sc-alt
- bach-fv-neuhausen-ii/-/spiel/031G159MIG000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:15 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/sc-altbach-fv-neuhausen-ii/-/spiel/031G159MIG000000VS5489B
+ TVVG7L386
 URL:https://www.fussball.de/spiel/sc-altbach-fv-neuhausen-ii/-/spiel/031G
  159MIG000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159MD4000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260913T130000Z
 DTEND:20260913T150000Z
 SUMMARY:⚽ FV Neuhausen II – TSV Denkendorf II
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-tsv-denkendorf-ii/-/spiel/031G159MD4000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-tsv-denkendorf-ii/-/spiel/031G159MD4000000
+ VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tsv-denkendorf-ii/-/spi
  el/031G159MD4000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031SBCG65O000000VS5489BUVVE0O1R6@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260917T173000Z
 DTEND:20260917T193000Z
 SUMMARY:⚽ FV Neuhausen II – AC Catania Kirchheim/​Teck
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Bezirkspokal\nhttps://www.fussball.de/spiel/fv-neuhausen-ii-a
- c-catania-kirchheim-teck/-/spiel/031SBCG65O000000VS5489BUVVE0O1R6
+DESCRIPTION:Anpfiff: 19:30 Uhr\nBezirkspokal\nhttps://www.fussball.de/spi
+ el/fv-neuhausen-ii-ac-catania-kirchheim-teck/-/spiel/031SBCG65O000000VS5
+ 489BUVVE0O1R6
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-ac-catania-kirchheim-te
  ck/-/spiel/031SBCG65O000000VS5489BUVVE0O1R6
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159M1G000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260920T133000Z
 DTEND:20260920T153000Z
 SUMMARY:⚽ TV Hochdorf – FV Neuhausen II
 LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/tv-hoc
- hdorf-fv-neuhausen-ii/-/spiel/031G159M1G000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/tv-hochdorf-fv-neuhausen-ii/-/spiel/031G159M1G000000VS5489
+ BTVVG7L386
 URL:https://www.fussball.de/spiel/tv-hochdorf-fv-neuhausen-ii/-/spiel/031
  G159M1G000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159LA0000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20260927T133000Z
 DTEND:20260927T153000Z
 SUMMARY:⚽ ASV Aichwald – FV Neuhausen II
 LOCATION:Stadion Aichwald\, Krummhardter Str. 52\, 73773 Aichwald
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/asv-ai
- chwald-fv-neuhausen-ii/-/spiel/031G159LA0000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/asv-aichwald-fv-neuhausen-ii/-/spiel/031G159LA0000000VS548
+ 9BTVVG7L386
 URL:https://www.fussball.de/spiel/asv-aichwald-fv-neuhausen-ii/-/spiel/03
  1G159LA0000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159L5G000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261004T110000Z
 DTEND:20261004T130000Z
 SUMMARY:⚽ FV Neuhausen II – TSG Esslingen
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-tsg-esslingen/-/spiel/031G159L5G000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 13:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-tsg-esslingen/-/spiel/031G159L5G000000VS54
+ 89BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tsg-esslingen/-/spiel/0
  31G159L5G000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159KMO000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261011T130000Z
 DTEND:20261011T150000Z
 SUMMARY:⚽ SG Eintracht Sirnau – FV Neuhausen II
 LOCATION:Sportplatz Amselweg\, Amselweg 10\, 73730 Esslingen am Neckar
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/sg-ein
- tracht-sirnau-fv-neuhausen-ii/-/spiel/031G159KMO000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/sg-eintracht-sirnau-fv-neuhausen-ii/-/spiel/031G159KMO0000
+ 00VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/sg-eintracht-sirnau-fv-neuhausen-ii/-/s
  piel/031G159KMO000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159KDO000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261018T110000Z
 DTEND:20261018T130000Z
 SUMMARY:⚽ FV Neuhausen II – TSV Notzingen
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-tsv-notzingen/-/spiel/031G159KDO000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 13:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-tsv-notzingen/-/spiel/031G159KDO000000VS54
+ 89BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tsv-notzingen/-/spiel/0
  31G159KDO000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159JT0000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
 SUMMARY:⚽ TSV Wernau – FV Neuhausen II
 LOCATION:Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (Neckar)
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/tsv-we
- rnau-fv-neuhausen-ii/-/spiel/031G159JT0000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/tsv-wernau-fv-neuhausen-ii/-/spiel/031G159JT0000000VS5489B
+ TVVG7L386
 URL:https://www.fussball.de/spiel/tsv-wernau-fv-neuhausen-ii/-/spiel/031G
  159JT0000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159JNO000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
 SUMMARY:⚽ FV Neuhausen II – TV Nellingen
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-tv-nellingen/-/spiel/031G159JNO000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 12:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-tv-nellingen/-/spiel/031G159JNO000000VS548
+ 9BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-tv-nellingen/-/spiel/03
  1G159JNO000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159JDG000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261108T133000Z
 DTEND:20261108T153000Z
 SUMMARY:⚽ TSV Wendlingen – FV Neuhausen II
 LOCATION:Rasenplatz am Speck\, Speckweg 21\, 73240 Wendlingen am Neckar
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/tsv-we
- ndlingen-fv-neuhausen-ii/-/spiel/031G159JDG000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 14:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/tsv-wendlingen-fv-neuhausen-ii/-/spiel/031G159JDG000000VS5
+ 489BTVVG7L386
 URL:https://www.fussball.de/spiel/tsv-wendlingen-fv-neuhausen-ii/-/spiel/
  031G159JDG000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159J30000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261115T113000Z
 DTEND:20261115T133000Z
 SUMMARY:⚽ FV Neuhausen II – VfB Reichenbach/​Fils
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-vfb-reichenbach-fils/-/spiel/031G159J30000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 12:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-vfb-reichenbach-fils/-/spiel/031G159J30000
+ 000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-vfb-reichenbach-fils/-/
  spiel/031G159J30000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159IOC000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261121T143000Z
 DTEND:20261121T163000Z
 SUMMARY:⚽ TSV Berkheim – FV Neuhausen II
 LOCATION:Kunstrasenplatz\, Kunstrasen Berkheim\, Jakobstr. 91\, 73734 Ess
  lingen am Neckar
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/tsv-be
- rkheim-fv-neuhausen-ii/-/spiel/031G159IOC000000VS5489BTVVG7L386
+DESCRIPTION:Anpfiff: 15:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/tsv-berkheim-fv-neuhausen-ii/-/spiel/031G159IOC000000VS548
+ 9BTVVG7L386
 URL:https://www.fussball.de/spiel/tsv-berkheim-fv-neuhausen-ii/-/spiel/03
  1G159IOC000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159IGS000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261129T133000Z
 DTEND:20261129T153000Z
 SUMMARY:⚽ FV Neuhausen II – VfB Oberesslingen/​Zell
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
  dern
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/fv-neu
- hausen-ii-vfb-oberesslingen-zell/-/spiel/031G159IGS000000VS5489BTVVG7L38
- 6
+DESCRIPTION:Anpfiff: 14:30 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/fv-neuhausen-ii-vfb-oberesslingen-zell/-/spiel/031G159IGS0
+ 00000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/fv-neuhausen-ii-vfb-oberesslingen-zell/
  -/spiel/031G159IGS000000VS5489BTVVG7L386
 END:VEVENT
 BEGIN:VEVENT
 UID:031G159I60000000VS5489BTVVG7L386@fussball.de
-DTSTAMP:20261001T121032Z
+DTSTAMP:20261001T123406Z
 DTSTART:20261206T130000Z
 DTEND:20261206T150000Z
 SUMMARY:⚽ TSV Wäldenbronn-Esslingen – FV Neuhausen II
 LOCATION:Kunstrasenplatz\, Kunstrasen Schulzentrum Nord\, Barbarossastr. 
  85\, 73732 Esslingen am Neckar
-DESCRIPTION:Kreisliga A\; Kreisliga\nhttps://www.fussball.de/spiel/tsv-wa
- eldenbronn-esslingen-fv-neuhausen-ii/-/spiel/031G159I60000000VS5489BTVVG
- 7L386
+DESCRIPTION:Anpfiff: 14:00 Uhr\nKreisliga A\; Kreisliga\nhttps://www.fuss
+ ball.de/spiel/tsv-waeldenbronn-esslingen-fv-neuhausen-ii/-/spiel/031G159
+ I60000000VS5489BTVVG7L386
 URL:https://www.fussball.de/spiel/tsv-waeldenbronn-esslingen-fv-neuhausen
  -ii/-/spiel/031G159I60000000VS5489BTVVG7L386
 END:VEVENT
