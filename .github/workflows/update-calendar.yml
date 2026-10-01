@@ -31,6 +31,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Kalender aktualisieren
+        env:
+          SPIELERPLUS_ICS_URL: ${{ secrets.SPIELERPLUS_ICS_URL }}
         run: python update_calendar.py
 
       - name: Änderungen committen
