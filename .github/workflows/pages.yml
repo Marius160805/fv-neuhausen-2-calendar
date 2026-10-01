@@ -1,0 +1,62 @@
+name: Kalender öffentlich bereitstellen
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "spiele.ics"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v6
+
+      - name: Kalender-Site vorbereiten
+        run: |
+          mkdir -p _site
+          cp spiele.ics _site/spiele.ics
+          touch _site/.nojekyll
+          cat > _site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="de">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width,initial-scale=1">
+            <title>FV Neuhausen II Kalender</title>
+          </head>
+          <body>
+            <h1>FV Neuhausen II Kalender</h1>
+            <p><a href="spiele.ics">Kalender öffnen</a></p>
+          </body>
+          </html>
+          HTML
+
+      - name: GitHub Pages konfigurieren
+        uses: actions/configure-pages@v5
+
+      - name: Pages-Artefakt hochladen
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "_site"
+
+      - name: GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
