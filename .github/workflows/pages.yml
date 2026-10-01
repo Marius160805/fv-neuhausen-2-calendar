@@ -50,8 +50,8 @@ jobs:
           <body>
             <h1>FV Neuhausen II Kalender</h1>
             <p>Alle Spiele automatisch im Kalender behalten.</p>
-            <p><a class="button" href="webcal://marius160805.github.io/fv-neuhausen-2-calendar/spiele.ics">Kalender abonnieren</a></p>
-            <p class="hint">Falls der Button nicht funktioniert: Einstellungen → Apps → Kalender → Kalenderaccounts → Account hinzufügen → Andere → Kalenderabo hinzufügen.</p>
+            <p><a class="button" href="https://marius160805.github.io/fv-neuhausen-2-calendar/spiele.ics">Kalender abonnieren</a></p>
+            <p class="hint">Falls der Button nicht direkt öffnet: Link in Safari öffnen und dort erneut auf „Kalender abonnieren“ tippen.</p>
           </body>
           </html>
           HTML
